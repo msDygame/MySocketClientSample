@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyOneToOneClientSample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="inet_address">10.0.2.2</string>
+</resources>
